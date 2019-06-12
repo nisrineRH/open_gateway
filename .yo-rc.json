@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.gateway.open",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "gateway",
+    "baseName": "open_gateway",
+    "packageName": "com.gateway.open",
+    "packageFolder": "com/gateway/open",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NWY5N2YxYjEzMTNmY2JkZDkxMTM0OGJjMGEyNzEzMzY0ZmUxOTdlZTIxYmQyYmRmOTBjNWRkN2VmMWQ5Y2MyZDJlZDVmMzNiZmRlZDE1OGM2ZGFiZDAyMzAyYTFlMWMxZWFiYjg0MjMyMjg1YjE5NTc3ZGYxNzk5YTlkNGI0MmQ=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "fr"
+    ]
+  }
+}
